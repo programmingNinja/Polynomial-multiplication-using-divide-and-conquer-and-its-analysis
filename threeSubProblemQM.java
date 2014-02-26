@@ -1,10 +1,9 @@
-
 import java.text.DecimalFormat;
 import java.util.Random;
 
 
 /**
- * Rohan D. Shah A01943549
+ * Rohan D. Shah 
  * IDE: NetBeans 7.4
  * Programming language = JAVA
  * Solution of polynomial multiplication by divide and conquer and generating 3 subproblems.
